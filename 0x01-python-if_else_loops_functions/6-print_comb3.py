@@ -1,5 +1,3 @@
-ble File  7 lines (7 sloc)  217 Bytes
-
 #!/usr/bin/python3
 for i in range(100):
     if int(i / 10) != i % 10 and int(i / 10) < i % 10:
