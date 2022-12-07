@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-search_replace = __import__('1-search_replace').search_replace
+def square_matrix_simple(matrix=[]):
     new_matrix = matrix.copy()
 
     for i in range(len(matrix)):
