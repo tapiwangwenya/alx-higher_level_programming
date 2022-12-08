@@ -3,20 +3,6 @@
 
 The Zen of Python, by Tim Peters
 
-![blob](https://user-images.githubusercontent.com/110995647/206390715-a5724c66-4600-4ac4-9e76-5b9e6678abbb.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Beautiful is better than ugly.
 Explicit is better than implicit.
