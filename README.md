@@ -3,6 +3,21 @@
 
 The Zen of Python, by Tim Peters
 
+![blob](https://user-images.githubusercontent.com/110995647/206390715-a5724c66-4600-4ac4-9e76-5b9e6678abbb.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
@@ -22,5 +37,3 @@ Although never is often better than *right* now.
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
-
-![blob](https://user-images.githubusercontent.com/110995647/206390715-a5724c66-4600-4ac4-9e76-5b9e6678abbb.jpg)
