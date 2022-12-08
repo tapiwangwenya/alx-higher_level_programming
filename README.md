@@ -1,7 +1,7 @@
 ![OIP](https://user-images.githubusercontent.com/110995647/206400383-fa2494ae-82b5-4443-9e10-4eb5d5dd57ea.jpg)
 
 
-<head><ins>The Zen of Python, by Tim Peters</ins></head>
+<head> <ins>The Zen of Python, by Tim Peters</ins> </head>
  
 
 
